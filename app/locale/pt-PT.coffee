@@ -3127,13 +3127,13 @@ module.exports = nativeDescription: "Português (Portugal)", englishDescription:
 #    date_thru_date: "__startDateRange__ thru __endDateRange__"
 
 #  interactives:
-#    phenomenal_job: "Phenomenal Job!"
-#    try_again: "Whoops, try again!"
-#    select_statement_left: "Whoops, select a statement from the left before hitting \"Submit.\""
-#    fill_boxes: "Whoops, make sure to fill all boxes before hitting \"Submit.\""
+    phenomenal_job: "Trabalho fenomenal!"
+    try_again: "Whoops, tenta outra vez!"
+    select_statement_left: "Whoops, escolhe uma frase da esquerda antes de carregar no \"Submit.\""
+    fill_boxes: "Whoops, preenche todas as caixas antes de carregar no \"Submit.\""
 
 #  browser_recommendation:
-#    title: "CodeCombat works best on Chrome!"
-#    pitch_body: "For the best CodeCombat experience we recommend using the latest version of Chrome. Download the latest version of chrome by clicking the button below!"
-#    download: "Download Chrome"
-#    ignore: "Ignore"
+    title: "O CodeCombat funciona melhor no Chrome!"
+    pitch_body: "Para a melhor experiência no CodeCombat recomendamos que utilizes a ultima versão do Chrome. Faz Download da última versão do Chrome carregando no botão abaixo!"
+    download: "Download Chrome"
+    ignore: "Ignorar"
